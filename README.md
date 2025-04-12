@@ -9,4 +9,4 @@ Performance and Backtest Conceptual Diagram
 [Filet-O-Fish Backtesting Conceptual Diagram.pdf](https://github.com/user-attachments/files/19718025/Filet-O-Fish.Backtesting.Conceptual.Diagram.pdf)
 
 Preliminary Round Presentation Slide
-[Uploading Filet O Fish Preliminary Round Presentation Slide.pdf…]()
+[Filet O Fish Preliminary Round Presentation Slide.pdf](https://github.com/user-attachments/files/19718227/Filet.O.Fish.Preliminary.Round.Presentation.Slide.pdf)
